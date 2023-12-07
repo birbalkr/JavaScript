@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(34, 34, 70);
+}
+#eyeicon{
+    cursor: pointer;
+    height: auto;
+    width: 25px;
+    margin-left: -25px;
+}
+.inputbox{
+    display: flex;
+    justify-content: center;
+    margin-top: 20%;
+}
